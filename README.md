@@ -15,7 +15,7 @@ MIN, MAX, AVERAGE, SUM – Basic calculations.
 
 Absolute Cell References – Keep key values fixed while copying formulas.
 
-IF Conditions – Handle bonuses, deductions, and conditional calculations automatically.
+IF Conditions – Handle bonuses and conditional calculations automatically.
 
 Purpose:
 
