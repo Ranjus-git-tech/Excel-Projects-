@@ -7,31 +7,31 @@ This repository contains Excel projects I’ve built to practice data analysis, 
 Payroll Excel Project
 
 Description:
-This is a beginner-level Excel project designed to practice basic Excel functions. The project focuses on calculating payroll-related values using simple formulas.
+A beginner-to-intermediate Excel project to manage payroll data using formulas and logical conditions.
 
-Key Features / Functions Used:
+Key Features:
 
-MIN – Finds the minimum value in a dataset.
+MIN, MAX, AVERAGE, SUM – Basic calculations.
 
-MAX – Finds the maximum value in a dataset.
+Absolute Cell References – Keep key values fixed while copying formulas.
 
-AVERAGE – Calculates the average value.
-
-SUM – Adds up all values in a range.
+IF Conditions – Handle bonuses, deductions, and conditional calculations automatically.
 
 Purpose:
 
-Learn how to use basic Excel formulas in a practical context.
+Practice organizing payroll data with dynamic formulas.
 
-Practice organizing data in a payroll sheet.
+Learn how to combine basic and logical Excel functions.
+
+Build a foundation for more advanced Excel projects.
 
 Usage:
 
 Open the Excel file.
 
-Input employee data (e.g., salary, hours worked).
+Input employee data (salary, hours, etc.).
 
-Formulas automatically calculate the minimum, maximum, total, and average payroll values.
+Formulas calculate totals, averages, min/max, and conditional results automatically.
 
 2. Sales Tracker
 
