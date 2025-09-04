@@ -4,7 +4,7 @@ This repository contains Excel projects I’ve built to practice data analysis, 
 
 🔹 Projects
 
-Payroll Excel Project
+1. Payroll Excel Project
 
 Description:
 A beginner-to-intermediate Excel project to manage payroll data using formulas and logical conditions.
