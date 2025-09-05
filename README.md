@@ -127,6 +127,52 @@ Automatically generate a list of fired employees.
 
 Visual breakdown of employee performance through charts.
 
+6.Sales Database 📊
+
+This project is an Excel-based sales analysis system built from raw data into a structured and visual format. It demonstrates skills in data cleaning, analysis, and visualization using Excel’s built-in tools.
+
+🚀 Features
+
+Cleaned raw data using Text-to-Columns (split by space).
+
+Applied Freeze Panes for easy navigation across large datasets.
+
+Used SUMIF for conditional totals.
+
+Applied SORT and FILTER for data management.
+
+Built a Pivot Table to summarize sales data.
+
+Created a Pie Chart to show sales distribution.
+
+Designed a Clustered Line Chart for trend visualization.
+
+🧮 Key Excel Skills Demonstrated
+
+Freeze Panes for better usability
+
+Text-to-Columns for splitting raw data
+
+SUMIF for conditional calculations
+
+Sorting & Filtering large datasets
+
+Pivot Table for summarization
+
+Charting (Pie + Clustered Line) for visualization
+
+📈 Purpose
+
+This project was designed to simulate a small sales database workflow:
+
+Start with unorganized data
+
+Cleaned it up for readability
+
+Analyze sales performance using formulas & pivot tables
+
+Present insights visually through charts
+
 🚀 Upcoming Projects
 
 More Excel-based projects are coming soon as I continue practicing and expanding my portfolio.
