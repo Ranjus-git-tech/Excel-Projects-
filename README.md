@@ -61,6 +61,46 @@ Visualization of performance trends.
 
 Skills Used: IF formulas, Conditional Formatting, PivotTables, Dashboards.
 
+4. Employee Gradebook 📊
+
+This project is an Excel-based employee gradebook that tracks test performance, calculates percentages, identifies top employees, and flags underperformers automatically.
+
+🚀 Features
+
+Absolute cell references to keep formulas consistent.
+
+Employee of the Month 🏆
+
+Uses MAX inside XLOOKUP to find the highest performer and return their name.
+
+Fired Employees ❌
+
+Uses FILTER to dynamically list names of employees who failed performance conditions.
+
+Performance Visualization
+
+Clustered bar chart comparing employee scores across different tests (Safety Test, Company Philosophy Test, Financial Skills Test, and Drug Test).
+
+🧮 Key Excel Functions Used
+
+XLOOKUP() → to find Employee of the Month.
+
+MAX() → to get the highest performance score.
+
+FILTER() → to return names of employees flagged for firing.
+
+& → to concatenate first and last names.
+
+Absolute Cell References ($A$1) → to keep formula ranges stable.
+
+📈 Insights
+
+Instantly see who’s the top performer.
+
+Automatically generate a list of fired employees.
+
+Visual breakdown of employee performance through charts.
+
 🚀 Upcoming Projects
 
 More Excel-based projects are coming soon as I continue practicing and expanding my portfolio.
