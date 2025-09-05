@@ -47,7 +47,33 @@ Charts to visualize trends and performance.
 
 Skills Used: Formulas, PivotTables, Conditional Formatting, Charts.
 
-3. Excellence Tracker
+3. Decision Factors ⚖️
+
+This project is a basic Excel exercise where decisions are made by comparing values and choosing one over the other. Instead of using SUM, the project uses direct + operations to combine values step by step.
+
+🚀 Features
+
+Simple structure with manual decision-making logic.
+
+Uses + instead of SUM() for clarity in basic calculations.
+
+Demonstrates how to choose between values based on decision factors.
+
+🧮 Key Excel Functions Used
+
+Basic arithmetic (+)
+
+Logical comparisons (choosing one value over another)
+
+📈 Purpose
+
+This project was mainly built as a starter exercise to understand:
+
+How formulas behave when referencing values
+
+How can decision-based outputs be represented in Excel.
+
+4. Excellence Tracker
 
 Goal: Monitor personal or team performance and productivity over time.
 
@@ -61,9 +87,9 @@ Visualization of performance trends.
 
 Skills Used: IF formulas, Conditional Formatting, PivotTables, Dashboards.
 
-4. Employee Gradebook 📊
+5. Employee Gradebook 📊
 
-This project is an Excel-based employee gradebook that tracks test performance, calculates percentages, identifies top employees, and flags underperformers automatically.
+This project is an Excel-based employee gradebook that tracks test performance, calculates percentages, identifies top-performing employees, and automatically flags underperformers.
 
 🚀 Features
 
@@ -75,7 +101,7 @@ Uses MAX inside XLOOKUP to find the highest performer and return their name.
 
 Fired Employees ❌
 
-Uses FILTER to dynamically list names of employees who failed performance conditions.
+Uses FILTER to list names of employees who failed performance conditions dynamically.
 
 Performance Visualization
 
