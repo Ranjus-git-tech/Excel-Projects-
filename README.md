@@ -173,6 +173,49 @@ Analyze sales performance using formulas & pivot tables
 
 Present insights visually through charts
 
+7. Excel Data Analysis Project
+📌 Project Overview
+
+This project demonstrates how I processed and analyzed raw data from a .txt file using Microsoft Excel. The goal was to clean, transform, and visualize the data effectively while also creating a professional presentation of the findings.
+
+🛠️ Steps & Skills Used
+
+Data Import
+
+Imported data from a .txt file.
+
+Used delimiters to separate the data into proper rows and columns.
+
+Data Cleaning & Transformation
+
+Applied formulas for data manipulation:
+
+LEFT() → Extract characters from the left.
+
+RIGHT() → Extract characters from the right.
+
+MID() → Extract substrings from the middle.
+
+VLOOKUP() → Lookup values across tables.
+
+IF() → Apply logical conditions.
+
+CONCATENATE() → Merge multiple fields into one.
+
+Analysis & Visualization
+
+Built Pivot Tables to summarize the data.
+
+Created Charts for visualization:
+
+Scatter chart.
+
+Clustered column chart.
+
+Presentation
+
+Exported the Excel analysis to MS Word for documentation and presentation.
+
 🚀 Upcoming Projects
 
 More Excel-based projects are coming soon as I continue practicing and expanding my portfolio.
