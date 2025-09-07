@@ -216,6 +216,36 @@ Presentation
 
 Exported the Excel analysis to MS Word for documentation and presentation.
 
+8. Loan Interest Rate Calculator & Visualizer
+
+This project is an Excel-based loan interest calculator that allows you to calculate loan costs at different interest rates and visualize them using a bar chart. It’s designed to help users understand how interest rates impact loan repayment over time.
+
+Features
+
+Interest Calculation: Compute loan costs using basic Excel operations like multiplication, addition, and subtraction.
+
+Dynamic Visualization: Bar chart represents different interest rates and their corresponding loan costs.
+
+Interactive Data: Easily update the chart by changing interest rates or loan amounts to see real-time changes in cost.
+
+How It Works
+
+Input the loan amount and interest rates in the Excel sheet.
+
+Use Excel formulas to calculate the total cost of the loan for each interest rate.
+
+The bar chart automatically updates to visualize the cost differences for each interest rate.
+
+Adjust the interest rates or amounts to explore different scenarios.
+
+Tools Used
+
+Microsoft Excel
+
+Excel formulas: +, -, *, /
+
+Bar chart visualization
+
 🚀 Upcoming Projects
 
 More Excel-based projects are coming soon as I continue practicing and expanding my portfolio.
