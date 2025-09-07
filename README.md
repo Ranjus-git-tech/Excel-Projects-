@@ -246,6 +246,43 @@ Excel formulas: +, -, *, /
 
 Bar chart visualization
 
+9. Excel Shopping List Comparison
+
+This project analyzes shopping list costs across three different stores and visualizes the results using Excel.
+
+📌 Project Overview
+
+The project focuses on calculating and comparing the total costs of shopping lists across multiple stores. Two different shopping lists were used (Susan’s and Tim’s), and bar charts were created to show price differences.
+
+Steps Completed
+
+Calculated the total cost at each store for Susan’s list.
+
+Created a bar chart comparing the three stores (Walmart, Dollar Trap, and Office Repo).
+
+Copied Susan’s list into a new column and updated it to represent Tim’s shopping list.
+
+Adjusted item names and quantities for Tim.
+
+Created another bar chart comparing store prices for Tim.
+
+🛠️ Skills & Features Used
+
+Formulas: SUM, cell references
+
+Charts: Bar charts for store price comparison
+
+Data Management: Copying, pasting, and modifying lists
+
+Excel Basics: Formatting, alignment, organizing data
+
+📊 Results
+
+Generated total shopping costs for Susan and Tim at each store.
+
+Built visual comparisons for both lists across three stores.
+
+
 🚀 Upcoming Projects
 
 More Excel-based projects are coming soon as I continue practicing and expanding my portfolio.
