@@ -345,12 +345,7 @@ KPIs highlighted for decision-making
 
 Clean, formatted tables for easy reporting
 
-📸 Screenshots
-
-(Add your screenshots here: Dashboard view, Pivot chart, Data cleaning steps, etc.)
-
-🧠 Insights Learned
-The 
+🧠 Insights Learned The 
 North Region generated the highest sales.
 
 Cash payments showed a declining share compared to UPI/Card.
