@@ -282,7 +282,9 @@ Generated total shopping costs for Susan and Tim at each store.
 
 Built visual comparisons for both lists across three stores.
 
-10.📌 Project Overview
+10. E-commerce Sales Dashboard (paywalled version)
+
+📌 Project Overview
 
 This project takes a messy raw .txt sales dataset and transforms it into a clean, professional interactive dashboard.
 The goal was to practice and showcase my full Excel skillset — from data cleaning to advanced formulas, pivot tables, and visualization.
