@@ -282,6 +282,81 @@ Generated total shopping costs for Susan and Tim at each store.
 
 Built visual comparisons for both lists across three stores.
 
+10.📌 Project Overview
+
+This project takes a messy raw .txt sales dataset and transforms it into a clean, professional interactive dashboard.
+The goal was to practice and showcase my full Excel skillset — from data cleaning to advanced formulas, pivot tables, and visualization.
+
+🔧 Skills Used
+
+Data Import & Cleaning
+
+Text-to-Columns (delimiter split)
+
+Removed blanks/duplicates
+
+Standardized values with Data Validation
+
+Formulas
+
+LEFT, RIGHT, MID
+
+IF, CONCATENATE
+
+VLOOKUP / HLOOKUP / XLOOKUP (dynamic OrderID lookup for total price)
+
+IFERROR for error handling
+
+Formatting & Highlighting
+
+Conditional Formatting → Top 5 sales (blue), Bottom 5 sales (red)
+
+Header styling for readability
+
+Analysis Tools
+
+Sorting & Filtering
+
+Advanced Filters (custom views)
+
+Freeze Panes for smooth scrolling
+
+Pivot Tables & Charts
+
+Sales by Region (Clustered Column Chart)
+
+Added Slicers for Region/Category filtering
+
+KPIs (Key Metrics)
+
+Highest Sale
+
+Lowest Sale
+
+Average Sale
+
+Total Revenue
+
+📊 Final Dashboard Features
+
+Region-wise sales analysis
+
+KPIs highlighted for decision-making
+
+Clean, formatted tables for easy reporting
+
+📸 Screenshots
+
+(Add your screenshots here: Dashboard view, Pivot chart, Data cleaning steps, etc.)
+
+🧠 Insights Learned
+The 
+North Region generated the highest sales.
+
+Cash payments showed a declining share compared to UPI/Card.
+
+Average order value highlights strong bulk sales in certain product categories.
+
 
 🚀 Upcoming Projects
 
